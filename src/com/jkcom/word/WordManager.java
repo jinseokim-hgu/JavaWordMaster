@@ -38,6 +38,7 @@ public class WordManager {
 				wordCRUD.listAll();
 			}
 		}
+		System.out.println("프로그램을 종료합니다.\n");
 	}
 	
 }
