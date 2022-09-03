@@ -1,6 +1,6 @@
 # JavaWordMaster
 > 4번 메뉴 실행
-<img width="270" alt="4번 실행" src="https://user-images.githubusercontent.com/62330979/188257317-825cb93a-9a99-4945-9a08-7b04d30ca0f7.png">
+![screenshots](4번 실행.png)
 
 > 1번 메뉴 실행
 <img width="274" alt="1번 실행" src="https://user-images.githubusercontent.com/62330979/188071544-771ee3da-5d59-42a8-9985-6686e129a937.png">
