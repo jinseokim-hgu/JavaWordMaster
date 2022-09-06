@@ -48,6 +48,12 @@ public class WordManager {
 			else if (menu == 7) {
 				wordCRUD.saveFile();
 			}
+			else if (menu == 2) {
+				wordCRUD.searchLevel();
+			}
+			else if (menu == 3) {
+				wordCRUD.searchWord();
+			}
 		}
 		System.out.println("프로그램을 종료합니다.\n");
 	}
