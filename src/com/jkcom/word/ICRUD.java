@@ -2,7 +2,7 @@ package com.jkcom.word;
 
 public interface ICRUD {
 	public Object add();
-	public int update(Object obj);
-	public int delete(Object obj);
-	public void selectOne(int id);
+	public void listAll();
+	public void updateItem();
+	public void deleteItem();
 }
