@@ -28,10 +28,12 @@ public class WordManager {
 	}
 	
 	public void start() {
+		wordCRUD.loadFile();
+		
 		while(true) {
 			int menu = selectMenu();
 			if (menu == 0) break;
-			if (menu == 4) {
+			else if (menu == 4) {
 				wordCRUD.addItem();
 			}
 			else if (menu == 1) {
