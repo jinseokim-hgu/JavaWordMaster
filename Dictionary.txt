@@ -32,3 +32,9 @@
 1|proceed|진행하다[되다]
 1|reputation|평판, 명성
 1| apple|사과
+3| tautology|동어 반복
+3| derivative|파생어, 파생물
+3| segmentation|분할, 구분, 세분화
+3| consignment|탁송, 배송
+3| query|문의, 의문
+3| cleaner|세탁소
