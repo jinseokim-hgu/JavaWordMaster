@@ -38,3 +38,7 @@
 3| consignment|탁송, 배송
 3| query|문의, 의문
 3| cleaner|세탁소
+3| electron|전자
+2| electronic|전자의, 전자 장비와 관련된
+2| electric|전기의, 전기를 이용하는
+3| electrically|전기로, 전기의 작용으로, 전기학상으로
